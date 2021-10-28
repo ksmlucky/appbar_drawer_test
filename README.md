@@ -1,6 +1,8 @@
 # appbar_test
+AppBar, Drawer 사용
 
-A new Flutter project.
+## 실행 화면
+![image](https://user-images.githubusercontent.com/77111523/139222727-152a0966-9dbe-48fb-997c-708b25c30eae.png)
 
 ## Getting Started
 
